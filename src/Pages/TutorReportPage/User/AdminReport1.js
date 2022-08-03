@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import Logo from "../companyLogo/Logo.png";
 import {Chart, ChartSeries, ChartSeriesItem, ChartSeriesLabels} from "@progress/kendo-react-charts";
 import sampleData from "../SampleData/invoice-data.json";
-import './AdminReport1.css'
+import './AdminReport1.scss'
 import TestingReport2 from "../../../Component/Report/TestingReport2";
 import TestingReport3 from "../../../Component/Report/TestingReport3";
 

@@ -1,6 +1,6 @@
 import React, {useEffect, useRef, useState} from 'react'
 import ReactToPrint from "react-to-print";
-import "./ReactToPrint.css";
+import "./ReactToPrint.scss";
 import ReportTesting from "../Testing/ReportTesting";
 import Button from "@progress/kendo-react-buttons/dist/es/Button";
 import {useDispatch, useSelector} from "react-redux";

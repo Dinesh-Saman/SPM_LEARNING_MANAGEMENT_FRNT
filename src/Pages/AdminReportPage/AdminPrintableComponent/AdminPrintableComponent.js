@@ -1,4 +1,4 @@
-import './AdminPrintableComponent.css'
+import './AdminPrintableComponent.scss'
 import React from "react";
 import Logo from "../../TutorReportPage/companyLogo/Logo.png";
 import {Chart, ChartSeries, ChartSeriesItem, ChartSeriesLabels} from "@progress/kendo-react-charts";
